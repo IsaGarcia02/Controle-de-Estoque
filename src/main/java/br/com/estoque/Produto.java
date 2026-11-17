@@ -1,3 +1,8 @@
+package  br.com.estoque;
+
+/**
+ * Um produto da loja e a quantidade dele em estoque.
+ */
 
 public class Produto {
 
